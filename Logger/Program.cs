@@ -10,7 +10,7 @@ using ClassLibrary3;
 
 namespace NewProject
 {
-    class Program
+    class Program // где модификатор ?
     {
         static void Main(string[] args)
         {
