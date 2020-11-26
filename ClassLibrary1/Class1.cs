@@ -30,6 +30,7 @@ namespace ClassLibrary1
             Message = message;
         }
 
+        //тест комент
         public static Logger getInstance(string type, string message)
         {
 
