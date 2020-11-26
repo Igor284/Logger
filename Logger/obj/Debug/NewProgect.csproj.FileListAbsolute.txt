@@ -1,0 +1,14 @@
+C:\Users\danya\source\repos\Logger\Logger\obj\Debug\NewProgect.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\Logger\Logger\bin\Debug\Logger.exe.config
+C:\Users\danya\source\repos\Logger\Logger\bin\Debug\Logger.exe
+C:\Users\danya\source\repos\Logger\Logger\bin\Debug\Logger.pdb
+C:\Users\danya\source\repos\Logger\Logger\bin\Debug\ClassLibrary1.dll
+C:\Users\danya\source\repos\Logger\Logger\bin\Debug\ClassLibrary2.dll
+C:\Users\danya\source\repos\Logger\Logger\bin\Debug\ClassLibrary3.dll
+C:\Users\danya\source\repos\Logger\Logger\bin\Debug\ClassLibrary1.pdb
+C:\Users\danya\source\repos\Logger\Logger\bin\Debug\ClassLibrary2.pdb
+C:\Users\danya\source\repos\Logger\Logger\bin\Debug\ClassLibrary3.pdb
+C:\Users\danya\source\repos\Logger\Logger\obj\Debug\NewProgect.csprojAssemblyReference.cache
+C:\Users\danya\source\repos\Logger\Logger\obj\Debug\NewProgect.csproj.CopyComplete
+C:\Users\danya\source\repos\Logger\Logger\obj\Debug\Logger.exe
+C:\Users\danya\source\repos\Logger\Logger\obj\Debug\Logger.pdb

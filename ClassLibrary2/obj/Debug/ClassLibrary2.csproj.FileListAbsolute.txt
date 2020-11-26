@@ -1,0 +1,9 @@
+C:\Users\danya\source\repos\Logger\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+C:\Users\danya\source\repos\Logger\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\Logger\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\danya\source\repos\Logger\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\danya\source\repos\Logger\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\danya\source\repos\Logger\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\danya\source\repos\Logger\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CopyComplete
+C:\Users\danya\source\repos\Logger\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\danya\source\repos\Logger\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

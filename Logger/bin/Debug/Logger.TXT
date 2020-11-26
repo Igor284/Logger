@@ -1,0 +1,503 @@
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+
+___________________________________
+
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Info }: { Youre here }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Exeption }: {    в ClassLibrary3.Starter.Run() в C:\Users\danya\source\repos\Logger\ClassLibrary3\Class1.cs:строка 24 }
+{ Info }: { Youre here }
+{ Warning }: { Skiping logic }
